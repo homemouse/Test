@@ -1,0 +1,8 @@
+diff a/master.txt b/master.txt	(rejected hunks)
+@@ -0,0 +1,5 @@
++
++int main()
++{
++
++}
+\ No newline at end of file
