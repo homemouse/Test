@@ -3,4 +3,5 @@ int main()
 {
 	print("Hi i am VoltaCode")
 	print("go home")
+	print("say hi")
 }
