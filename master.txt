@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 int main()
+=======
+int main2()
+>>>>>>> 15ec0d9e0d56b9a8d5fbcb49db6b2554a43291a1
 {
 
 }
