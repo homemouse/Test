@@ -2,4 +2,5 @@
 int main()
 {
 	print("Hi I am Ian")
+	print("go work")
 }
